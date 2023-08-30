@@ -1,4 +1,4 @@
-### Hi, I'm Sodiq Atiku
+# Hi, I'm Sodiq Atiku
 
 <!--
 **Hatykuxordik/Hatykuxordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
