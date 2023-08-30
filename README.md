@@ -1,4 +1,7 @@
-<h1>Hello! I'm Sodiq Atiku</h1> 
+<div align="center">
+<h1>Hello! I'm Sodiq Atiku <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h1> 
+<img src="https://img.shields.io/github/followers/Hatykuxordik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+</div>
 
 <p>Welcome to my GitHub profile! This README serves as a comprehensive guide to my skills, experience, and approach as a frontend developer, emphasizing my ability to create user-friendly and captivating interfaces.</p>
 
@@ -13,6 +16,15 @@
 </ul>
 
 <p>Thank you for visiting my README. I'm excited about the opportunity to collaborate and work together. Don't hesitate to reach out to me. Let's create something great!</p>
+
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hatykuxordik&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hatykuxordik&theme=tokyonight" />
+
+</div>
+
+
+
 <!--
 **Hatykuxordik/Hatykuxordik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
