@@ -18,9 +18,9 @@
 <p>Thank you for visiting my README. I'm excited about the opportunity to collaborate and work together. Don't hesitate to reach out to me. Let's create something great!</p>
 
 <div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hatykuxordik&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hatykuxordik&theme=tokyonight" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatykuxordik&amp;show_icons=true&theme=tokyonight"&amp;include_all_commits=true&amp;hide_border=true" style="width: 48%;" alt="Sodiq's GitHub stats"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatykuxordik&theme=tokyonight&hide_border=true" style="max-width: 48%; "alt="Sodiq's Streaks"/>  
+  
 </div>
 
 
