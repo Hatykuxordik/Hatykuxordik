@@ -11,7 +11,7 @@
 <h2>Skills</h2>
 <ul>
   <li><strong>Languages:</strong> HTML, CSS, Advance CSS, JavaScript</li>
-  <li><strong>Frameworks/Libraries:</strong> React, Sass</li>
+  <li><strong>Frameworks/Libraries:</strong> React, Sass, TailwindCSS</li>
   <li><strong>Version Control:</strong> Git</li>
 </ul>
 
