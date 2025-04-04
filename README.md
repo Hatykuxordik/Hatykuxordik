@@ -10,7 +10,7 @@
 
 <h2>Skills</h2>
 <ul>
-  <li><strong>Languages:</strong> HTML, CSS, Advance CSS, JavaScript, TypeScript</li>
+  <li><strong>Languages:</strong> HTML, CSS, Advance CSS, JavaScript, TypeScript, Node.js</li>
   <li><strong>Frameworks/Libraries:</strong> React, Nextjs, Sass, TailwindCSS</li>
   <li><strong>Version Control:</strong> Git</li>
 </ul>
